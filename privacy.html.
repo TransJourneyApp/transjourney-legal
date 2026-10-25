@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Privacy Policy for the Transjourney app.">
+  <title>Privacy Policy — Transjourney</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      max-width: 760px;
+      margin: 40px auto;
+      padding: 0 24px;
+      line-height: 1.7;
+      color: #222;
+      background: #fff;
+    }
+    h1, h2 { line-height: 1.3; }
+    h1 { letter-spacing: -1px; }
+    a { color: #287a68; }
+    footer { margin-top: 40px; color: #777; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <p><a href="index.html">← Transjourney Legal</a></p>
+
+  <h1>Privacy Policy</h1>
+  <p><strong>Last updated:</strong> 25 October 2026</p>
+
+  <p>This Privacy Policy explains how Transjourney (the "App") handles information when you use it. The App is published by Harvey Millar, an individual developer.</p>
+
+  <h2>1. Contact</h2>
+  <p>For questions about this Privacy Policy or the App's privacy practices, contact Harvey Millar at <a href="mailto:Transjourney.support@gmail.com">Transjourney.support@gmail.com</a>.</p>
+
+  <h2>2. Information stored on your device</h2>
+  <p>Transjourney is designed to store your information locally on your device and does not require you to create an account. Depending on the features you use, information may include:</p>
+  <ul>
+    <li>Journal entries, personal records, milestones and tracking information.</li>
+    <li>Photos you choose to add to the App.</li>
+    <li>Voice recordings you create using the App.</li>
+    <li>App preferences, reminder settings and achievement information.</li>
+    <li>Backups and export files created using the App's features.</li>
+  </ul>
+  <p>Your records may contain sensitive personal information. Please consider carefully what you choose to store in the App.</p>
+
+  <h2>3. How information is used</h2>
+  <p>Information stored by the App is used to provide its features, display your records, save your preferences, schedule reminders and create reports or exports when you request them.</p>
+  <p>The App is designed without its own account service, cloud-sync service, advertising trackers or analytics service. This describes the App's intended design and should be reviewed if its features or integrations change.</p>
+
+  <h2>4. Photos and microphone access</h2>
+  <p>The App uses Apple's photo selection interface so you can choose photos to add. You choose which photos to select.</p>
+  <p>Microphone access is used when you choose to make a voice recording. Recordings are stored within the App's data on your device.</p>
+
+  <h2>5. Notifications</h2>
+  <p>The App can schedule local notifications on your device. Depending on the reminder and your settings, notifications may display information you have entered, potentially including sensitive details on your lock screen.</p>
+  <p>You can manage notification permissions through iOS settings and adjust reminder settings within the App where available.</p>
+
+  <h2>6. Premium subscriptions and Apple</h2>
+  <p>If you purchase or restore a Premium subscription, Apple's App Store and StoreKit services process the transaction and provide subscription status information to the App. Apple handles payment processing, and the App does not store your payment card details.</p>
+  <p>Apple processes information under its own terms and privacy policy. You can read Apple's privacy policy at <a href="https://www.apple.com/legal/privacy/">apple.com/legal/privacy</a>.</p>
+
+  <h2>7. Exports, reports and sharing</h2>
+  <p>If you export records, create a report or share a file, selected information may leave the App through iOS sharing or file-saving features.</p>
+  <p>Export files may contain readable personal information and internal record identifiers. Depending on the feature, exports may omit photos and voice recordings. Check the details of the feature before sharing a file.</p>
+  <p>Files saved or shared outside the App may be accessible to the recipients or services you choose. Once a file leaves the App, the publisher cannot control how other people or services handle their copies.</p>
+  <p>The App may use temporary files when preparing exports or reports. These files are intended to be removed by the App, but you should not assume that copies saved or shared elsewhere will also be removed.</p>
+
+  <h2>8. Backups and security</h2>
+  <p>Information stored by the App may be included in device backups, depending on your device, operating-system settings and backup configuration. Such backups may be handled by Apple or through a computer or another backup method you choose.</p>
+  <p>Some App features may create additional local backup files. These files may contain personal information and may be included in device backups.</p>
+  <p>The App relies on iOS storage and data-protection mechanisms. No method of storing information or transferring files can be guaranteed to be completely secure. We recommend protecting your device with a passcode and reviewing your backup settings.</p>
+
+  <h2>9. Retention and deletion</h2>
+  <p>Your records generally remain in the App until you delete them or remove the App. The App provides options for deleting records and, where applicable, associated media and App-created backup files.</p>
+  <p>Deleting an individual category may not remove every related item elsewhere in the App. The Delete Everything function is intended to remove App records, associated media, App-created backups, preferences and achievement information, along with pending reminders handled by the App.</p>
+  <p>Deletion may be irreversible. Deleting information within the App cannot guarantee removal of copies already included in device backups, saved elsewhere or shared with other people or services.</p>
+  <p>Deleting App data does not automatically cancel an App Store subscription. You must manage subscriptions separately through your Apple Account.</p>
+  <p>Removing the App deletes its locally stored data from the device as part of the normal iOS app-removal process, but copies in older device backups or elsewhere may remain.</p>
+
+  <h2>10. Privacy rights</h2>
+  <p>Depending on the circumstances and the laws that apply, you may have rights concerning your personal information, such as rights to access, correct or erase information, restrict or object to certain processing, or make a complaint.</p>
+  <p>Because the App is designed to store records locally, you can manage many records directly within the App. For privacy enquiries, contact Harvey Millar at <a href="mailto:Transjourney.support@gmail.com">Transjourney.support@gmail.com</a>.</p>
+  <p>If you are in the UK, you can find information about data protection rights and complaints through the Information Commissioner's Office at <a href="https://ico.org.uk/">ico.org.uk</a>.</p>
+
+  <h2>11. Children's privacy</h2>
+  <p>The App's intended audience and minimum age should be considered before release. The App does not require an account, and the publisher does not operate an account-based service for collecting users' records. If you have a concern about children's privacy in connection with the App, contact the publisher using the email above.</p>
+
+  <h2>12. Changes to this Privacy Policy</h2>
+  <p>This Privacy Policy may be updated if the App's features, data practices or applicable requirements change. The latest version will be made available on this page, with the updated date shown at the top.</p>
+
+  <footer>
+    <p>Transjourney</p>
+    <p><a href="index.html">Back to Transjourney Legal</a></p>
+    <p><a href="terms.html">Terms of Use</a></p>
+  </footer>
+</body>
+</html>
